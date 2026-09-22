@@ -1,0 +1,15 @@
+{
+	"name": "covid-reporting-adf-rahim",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b6d595b4-7c16-4a2f-bbf6-8e0c36622b30",
+		"tenantId": "20e17733-686b-4624-b04c-a5b9984bc740"
+	}
+}
